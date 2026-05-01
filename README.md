@@ -15,9 +15,18 @@
 ## 👥 Authors
 
 - **Abdelhak Heroucha** — `abdelhak.heroucha@u-pec.fr`
-- **Abdul Karim Gizzini** — Email coming soon
-- **Thiago Abreu** — Email coming soon
-- **Abdelhamid Mellouk** — Email coming soon
+- **Abdul Karim Gizzini** — `abdul-karim.gizzini@u-pec.fr`
+- **Thiago Abreu** — `thiago.wanderley-matos-de-abreu@u-pec.fr`
+- **Abdelhamid Mellouk** — `mellouk@u-pec.fr`
+
+---
+
+
+## 🌐 Project Website
+
+The project website is available here:
+
+🔗 **Website:** https://abdelhakheroucha.github.io/TrustXQoE-Dataset/
 
 ---
 
@@ -131,14 +140,6 @@ This dataset can be used for:
 | MOS labels | Coming soon |
 | Metadata | Coming soon |
 | DOI | Coming soon |
-
----
-
-## 🌐 Project Website
-
-The project website is available here:
-
-🔗 **Website:** https://abdelhakheroucha.github.io/TrustXQoE-Dataset/
 
 ---
 
