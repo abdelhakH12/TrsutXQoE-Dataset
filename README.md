@@ -21,7 +21,7 @@
 
 ---
 ## 📚 Citation
-
+```bibtex
 @data{DVN/CSH0EA_2026,
   author    = {Heroucha, Abdelhak and Abdul Karim Gizzini and Thiago Abreu and Abdelhamid Mellouk},
   publisher = {Harvard Dataverse},
@@ -31,6 +31,7 @@
   doi       = {10.7910/DVN/CSH0EA},
   url       = {https://doi.org/10.7910/DVN/CSH0EA}
 }
+```
 ---
 ## 🌐 Project Website
 
@@ -74,7 +75,7 @@ The dataset was collected using a controlled edge video streaming testbed with:
 - **MOS labels from 0 to 5**
 
 TrustXQoE captures the complete video streaming delivery chain:
-
+```text
 Origin Server
    ↓
 Backhaul Network
@@ -86,6 +87,7 @@ Access Network
 Client Video Player
    ↓
 MOS / QoE Feedback
+```
 ---
 
 ## 📜 License
